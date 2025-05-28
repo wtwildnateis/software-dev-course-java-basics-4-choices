@@ -25,6 +25,16 @@ To run these tests, right-click on the `CollectionExercisesTests` class and sele
 
 You will see the results of the tests in the `Run` tab at the bottom of the IDE.
 
+## Collection Choice Exercises (Required)
+
+You will find the collection choice exercises in the `src/main/java/org/example/CollectionChoiceExercises.java` file.
+
+Each method in this class asks you to declare a single variable using the correct 
+collection type for the situation described.
+
+There are no tests for this exercise, you will need to refer to the solution repository
+or have your instructor check your work to verify your solution.
+
 ## StudentManager Challenges (Optional)
 
 A class named `StudentManger` is included in this project to show a larger example of collections applied to a "real"
